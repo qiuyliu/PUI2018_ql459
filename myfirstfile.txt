@@ -1,6 +1,2 @@
 whatever
-<<<<<<< HEAD
 this is gonna go wrong...
-this is gonna go wrong...
-=======
->>>>>>> 895726177c0b33ca06478ed0245a6acb3a8348cc
