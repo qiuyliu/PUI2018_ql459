@@ -1,2 +1,2 @@
-![Alt text](HW1_ql459/Screen Shot 2018-09-10 at 9.24.50 PM.png)
-![Alt text](HW1_ql459/Screen Shot 2018-09-10 at 9.27.29 PM.png)
+![alt text](qiuyliu/PUI2018_ql459/HW1_ql459/qiuyliu_bash.png)
+![alt text](qiuyliu/PUI2018_ql459/HW1_ql459/setup_env.png)
