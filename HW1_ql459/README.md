@@ -9,8 +9,8 @@ Assignment 1: Set up your environment:
 
 Screen shot of setting up environment
 -----------------------------------
-![](https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW1_ql459/qiuyliu_bash.png)
+![](https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW1_ql459/setup_env.png)
 
 Screen shot of bash file
 ---------------------------
-![](https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW1_ql459/setup_env.png)
+![](https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW1_ql459/qiuyliu_bash.png)
