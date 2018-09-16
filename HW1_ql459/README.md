@@ -14,3 +14,7 @@ Screen shot of setting up environment
 Screen shot of bash file
 ---------------------------
 ![](https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW1_ql459/qiuyliu_bash.png)
+
+Assignment 2: Reproducible research:
+--------------------------------------
+-https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW1_ql459/HW1_extra_credit.ipynb
