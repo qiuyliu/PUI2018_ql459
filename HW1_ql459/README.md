@@ -9,7 +9,7 @@ Assignment 1: Set up your environment:
 
 Screen shot of setting up environment
 -----------------------------------
-![Alt text](HW1_ql459/setup_env.png)
+![Alt text](HW1_ql459/qiuyliu_bash.png)
 
 Screen shot of bash file
 ---------------------------
