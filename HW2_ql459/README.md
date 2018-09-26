@@ -12,6 +12,8 @@ Screenshot for removing file
 ----------------------------
 ![](https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW2_ql459/remove_file.png)
 ### Part 2: Read CSV files with pandas and use NYC open data portal
+Notebook: [PUI_HW3_Assignment_2.ipynb](https://github.com/qiuyliu/PUI2018_ql459/blob/master/HW2_ql459/PUI_HW3_Assignment_2.ipynb)
+
 I choose the [2016 Green taxi dataset](https://data.cityofnewyork.us/Transportation/2016-Green-Taxi-Trip-Data/hvrh-b6nb/data) from [NYC Open Data](https://opendata.cityofnewyork.us/). This dataset includes trip records from all trips completed in green taxis in NYC on 12/5/2016. The dataset is provided by Taxi and Limousine Commission (TLC).
 
 The first solution is to download the csv file from portal and use environment varaible to move the csv file into the PUIdata folder. Secondly using pandas to show some columns of data. I choose "total_amount" and "trip_distance" two columns to plot the scatter plot. The relation between "total_amount" and "trip_distance" tends to be the positive correlation.
@@ -29,7 +31,7 @@ python show_bus_locations.py <MTA_KEY> <BUS_LINE>
 For example \<BUS_LINE> could be B52:
 
 ```
-python show_bus_locations.py xxxxx-xxxxx-xxxxx-xxxxx-xxxxx B52
+python show_bus_locations_ql459.py xxxxx-xxxxx-xxxxx-xxxxx-xxxxx B52
 ```
 SAMPLE OUTPUT:
 ```
@@ -58,7 +60,7 @@ Here is the script: [get_bus_info_ql459.py](https://github.com/qiuyliu/PUI2018_q
 get_bus_info_ql459.py that takes 3 arguments in the following format:
 
 ```
-python get_bus_info.py <MTA_CODE> <BUS_LINE> <BUS_LINE>.csv
+python get_bus_info_ql459.py <MTA_CODE> <BUS_LINE> <BUS_LINE>.csv
 ```
 __and output to a CSV file named \<BUS_LINE>.csv__:
 
