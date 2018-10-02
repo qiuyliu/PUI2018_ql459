@@ -11,4 +11,8 @@
 
 ## Assignment two: Set up the work for data-driven inference based on CitiBike data. 
 
+<<<<<<< HEAD
 ## Assignment three: Z-test lab
+=======
+## Assignment three: Z-test lab
+>>>>>>> d8a3bbd4c9640e6039a3e1b39b6fa63141596098
