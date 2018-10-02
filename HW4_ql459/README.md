@@ -10,6 +10,10 @@
 - Fit the guassian to the distribution of means
 
 ## Assignment two: Set up the work for data-driven inference based on CitiBike data. 
-
+- Import the citbike data on November, 2015
+- Null hypothesis: The trip duration of riders born before or in year 1960 is longer than or the same as the trip duration of the riders born after 1960
 ## Assignment three: Z-test lab
+- Test the Null and alternative hypothesis
+- Do the calculation of the Z statistics
+- Comparing with the significance and conclusion rejects the null hypothesis
 
