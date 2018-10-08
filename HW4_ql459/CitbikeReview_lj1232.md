@@ -7,7 +7,7 @@ However the null and alternative hupotheses should mention 'average trip duratio
 It is better also to mention the unit of the trip duration is measured in.
 I believe it would be better if we just mention that the two durations are different and check how they differ in the test we run.
 
-H<sub>O<sub>: the average trip duration in minutes of riders born in 1960 or later is the same as the average trip duration for those born after 1960.
+H<sub>O<\sub>: the average trip duration in minutes of riders born in 1960 or later is the same as the average trip duration for those born after 1960.
 $H_a$: the average trip duration in minutes of riders born in 1960 or later is different from the average trip duration for those born after 1960.
 $H_0: t_1 = t_2$
 $H_a: t_! \neq t_2$
