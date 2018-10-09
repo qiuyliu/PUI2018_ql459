@@ -17,7 +17,7 @@ H<sub>a</sub>: the average trip duration in minutes of riders born in 1960 or la
 
 H<sub>O</sub>: t<sub>1</sub> = t<sub>2</sub>
 
-H<sub>a</sub>: t<sub>1</sub> \ne ≠ t<sub>2</sub>
+H<sub>a</sub>: t<sub>1</sub> ≠ t<sub>2</sub>
 
 I also think it would be intersting to justify the year choice. Why 1960? 
 
