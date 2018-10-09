@@ -31,11 +31,11 @@ The reducted dataframe has the required variables to proceed with the analysis.
 I believe plotting a histogram would have better helped visualize the data.
 
 ## Test
-I suggest to use the **t-test** for independent samples.
+I suggest to use the **t-test**.
 
 Reasons:
 
-1. We are assessing the difference between two unpaired groups
+1. Question to be answered: is there a difference between two groups on one dependent variable (trip duration)?
 
 2. We have 2 samples that are independent
 
