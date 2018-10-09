@@ -2,7 +2,7 @@
 ## Author: Qiuyao Liu
 
 ### I finished the Assignment one individually. I write the peer review for Yaxuan Yi
-## For the Assignment two
+## For the Assignment two, I worked with Guanjia Wang
 ### Logistical Rgression
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
