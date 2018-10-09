@@ -41,3 +41,6 @@ Reasons:
 
 3. We assume that the distribution is normal
 
+4. We don't have the populationn parameters
+
+
