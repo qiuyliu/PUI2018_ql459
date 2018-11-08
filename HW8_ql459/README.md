@@ -10,4 +10,4 @@ The trip duration distribution of NYC green taxi on 10am in Nov. 15th, 2017
 ### Part 2: Citibike miniproject
 Working with Guanjia Wang
 
-[Authorea: Citi Bike Analysis of the Trip Duration between senior and younger riders](https://www.authorea.com/users/249233/articles/335084-citi-bike-analysis-of-the-trip-duration-between-senior-and-younger-riders)
+[Authorea: Citi Bike Analysis of the Trip Duration between senior and younger riders](https://www.authorea.com/335084/a9ZCqxqrdhpLv7H0l_z7xw)
