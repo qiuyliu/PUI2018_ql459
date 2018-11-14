@@ -1,6 +1,6 @@
-[!image](https://github.com/qiuyliu/PUI2018_vvt221/blob/master/HW8_vvt221/final1.png)
-[!image](https://github.com/qiuyliu/PUI2018_vvt221/blob/master/HW8_vvt221/final2.png)
-[!image](https://github.com/qiuyliu/PUI2018_vvt221/blob/master/HW8_vvt221/final3.png)
+![image](https://github.com/qiuyliu/PUI2018_vvt221/blob/master/HW8_vvt221/final1.png)
+![image](https://github.com/qiuyliu/PUI2018_vvt221/blob/master/HW8_vvt221/final2.png)
+![image](https://github.com/qiuyliu/PUI2018_vvt221/blob/master/HW8_vvt221/final3.png)
 
 --------
 
