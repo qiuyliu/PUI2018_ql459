@@ -9,7 +9,7 @@
 5. overlay your data on a NYC map
 6.  Compare the results of the 2 algorithms
 ### Assignment 2:
-1. I worked with Minqi Lu and Jiawen Liang
+1. I worked with Minqi Lu， Jiawen Liang and Hanxing Li
 2. TIME SERIES ANALYSIS
 3. Find outliers, trends and periodicity in the MTA turnstyle data
 4. Fourier transform
